@@ -1,7 +1,7 @@
-#heading1
-##heading2
-###heading3
-##hello there##
+# heading1
+## heading2
+### heading3
+## hello there ##
 _hello_
 ~~hello~~
 
